@@ -1,0 +1,35 @@
+div {
+    background-color: #d3d3d3;
+    text-align: center;
+}
+.header {
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header2 {
+    background-color: gray;
+    width: 80%;
+}
+.banner {
+    height: 10%;
+
+}
+.medio {
+    display: flex;
+}
+.centro {
+    height: 37%;
+}
+.side {
+    width: 30%;
+}
+.article {
+    width: 70%;
+}
+.banner, .centro, .footer {
+    border-top: 10px;
+    border-color: white;
+    border-style: solid;
+}
